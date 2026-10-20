@@ -1,0 +1,19 @@
+nome;coluna;linha (tile 16x16)
+ar_condicionado;0;0
+grafite_neon;1;0
+janela_acesa_cinza;2;0
+janela_acesa_tijolo;3;0
+janela_azul_bege;4;0
+janela_azul_tijolo;5;0
+janela_rosa_bege;0;1
+janela_rosa_cinza;1;1
+parede_bege;2;1
+parede_cinza;3;1
+porta_acesa_bege;4;1
+porta_cinza;5;1
+porta_tijolo;0;2
+portao_persiana;1;2
+tijolo_vermelho;2;2
+toldo_azul;3;2
+toldo_vermelho;4;2
+ventilacao;5;2
