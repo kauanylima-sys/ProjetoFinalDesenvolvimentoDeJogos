@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://cpwohjkpflhah"]
+
+[node name="cerveja" type="CharacterBody2D" unique_id=1224173055]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1706706145]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1748612107]
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=1213875312]
