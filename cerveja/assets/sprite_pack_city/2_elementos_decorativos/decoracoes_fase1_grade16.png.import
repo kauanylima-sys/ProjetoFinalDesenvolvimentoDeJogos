@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b7vmvfy28bmwo"
-path="res://.godot/imported/arbusto_b.png-b469c7905bbf9a6a3d43d17fbb1f8d8c.ctex"
+uid="uid://bsf2o6kotq2bx"
+path="res://.godot/imported/decoracoes_fase1_grade16.png-955f1cb501089332953174ab47269825.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprite_pack_city/2_elementos_decorativos/vegetacao/arbusto_b.png"
-dest_files=["res://.godot/imported/arbusto_b.png-b469c7905bbf9a6a3d43d17fbb1f8d8c.ctex"]
+source_file="res://assets/sprite_pack_city/2_elementos_decorativos/decoracoes_fase1_grade16.png"
+dest_files=["res://.godot/imported/decoracoes_fase1_grade16.png-955f1cb501089332953174ab47269825.ctex"]
 
 [params]
 

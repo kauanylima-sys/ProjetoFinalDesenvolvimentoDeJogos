@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dnl7xdtu25icf"
-path="res://.godot/imported/maquina_vermelha.png-6c4e6d13479b2aeb2972bea98149fe66.ctex"
+uid="uid://n7nh74vby5dg"
+path="res://.godot/imported/decoracoes_fase2_grade16.png-0464428ba1305032bbb6f2a48242165d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprite_pack_city/2_elementos_decorativos/objetos/maquina_vermelha.png"
-dest_files=["res://.godot/imported/maquina_vermelha.png-6c4e6d13479b2aeb2972bea98149fe66.ctex"]
+source_file="res://assets/sprite_pack_city/2_elementos_decorativos/decoracoes_fase2_grade16.png"
+dest_files=["res://.godot/imported/decoracoes_fase2_grade16.png-0464428ba1305032bbb6f2a48242165d.ctex"]
 
 [params]
 
