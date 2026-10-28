@@ -1,7 +1,6 @@
 [gd_scene format=4 uid="uid://bdfqiawcv61is"]
 
 [ext_resource type="Texture2D" uid="uid://bkqi40sgn04em" path="res://assets/sprite_pack_city/1_cenario_principal/cenario_principal_480x320.png" id="1_py7ao"]
-[ext_resource type="Texture2D" uid="uid://bdr0lw656j341" path="res://assets/sprite_pack_city/3_blocos_construcao/chao_ruas/meio_fio_reto.png" id="2_24j2r"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_py7ao"]
 texture = ExtResource("1_py7ao")
@@ -1212,13 +1211,8 @@ texture = ExtResource("1_py7ao")
 28:19/0 = 0
 29:19/0 = 0
 
-[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_ficqo"]
-texture = ExtResource("2_24j2r")
-0:0/0 = 0
-
 [sub_resource type="TileSet" id="TileSet_x6l0x"]
 sources/0 = SubResource("TileSetAtlasSource_18egq")
-sources/1 = SubResource("TileSetAtlasSource_ficqo")
 
 [sub_resource type="TileSet" id="TileSet_1k5yr"]
 
