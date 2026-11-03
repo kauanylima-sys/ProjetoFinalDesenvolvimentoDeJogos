@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bpu5ff8fx1rot"
-path="res://.godot/imported/ponto_onibus_poste.png-90310d87dbb0f4f0220dd593166f4d7d.ctex"
+uid="uid://b62e807pvnup4"
+path="res://.godot/imported/fase2_blocos_construcao.png-e23bdab204b15ae2675aad33875245f5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprite_pack_city/2_elementos_decorativos/objetos/ponto_onibus_poste.png"
-dest_files=["res://.godot/imported/ponto_onibus_poste.png-90310d87dbb0f4f0220dd593166f4d7d.ctex"]
+source_file="res://assets/sprite_pack_city/3_blocos_construcao/fase2_blocos_construcao.png"
+dest_files=["res://.godot/imported/fase2_blocos_construcao.png-e23bdab204b15ae2675aad33875245f5.ctex"]
 
 [params]
 
