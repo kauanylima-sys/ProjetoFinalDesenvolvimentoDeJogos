@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://bdfqiawcv61is"]
+
+[node name="Fase01" type="Node2D" unique_id=2092147705]
+
+[node name="TileMap" type="TileMap" parent="." unique_id=194205344]
+format = 2

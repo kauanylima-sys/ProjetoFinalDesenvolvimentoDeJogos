@@ -1,0 +1,7 @@
+nome;coluna;linha (tile 16x16)
+telhado_ar_condicionado;0;0
+telhado_borda;1;0
+telhado_cascalho;2;0
+telhado_claraboias;3;0
+telhado_cupula_azul;4;0
+telhado_telhas_vermelhas;5;0
